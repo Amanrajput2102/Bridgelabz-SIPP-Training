@@ -1,0 +1,17 @@
+repositry clone 
+git clone https://github.com/Amanrajput2102/Bridgelabz-SIPP-Training.git
+//
+for checking files status
+git status
+//
+for adding to github
+git add files_name
+//
+then to commit
+git commit -m "Comments"
+//
+the to push to main
+git push
+
+branch checkout
+git checkout -b branch_name
